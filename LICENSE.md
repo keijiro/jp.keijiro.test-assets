@@ -1,4 +1,1 @@
-The assets included in this package are free to use without permission or
-attribution. Some of them are clearly stated that they're in the public domain,
-or some others are just labelled as being free to use. For further details, see
-the descriptions from README.md.
+The assets included in this package are free to use without permission or attribution. Some of them are clearly stated that they're in the public domain, or some others are just labelled as being free to use. For further details, see the descriptions from README.md.
