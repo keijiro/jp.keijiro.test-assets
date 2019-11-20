@@ -17,7 +17,12 @@ Environment HDRI, woodland with warm sunlight, made by Unity Technologies.
 
 https://assetstore.unity.com/packages/essentials/beta-projects/unity-hdri-pack-72511
 
-Textures/UV Grid.png
---------------------
+Mesh/Teapot.obj
+---------------
 
-UV test grid texture generated with Blender.
+Utah teapot exported from Houdini.
+
+Texture/UV Grid.png
+-------------------
+
+UV test grid texture exported from Blender.
